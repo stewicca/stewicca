@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Java, JavaScript
-- **Frameworks & Libraries:** React, Node.js, Express
+- **Frameworks & Libraries:** Spring Boot, React, Node.js, Express
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, JetBrains IDE
 
 ### 📈 GitHub Stats
 
